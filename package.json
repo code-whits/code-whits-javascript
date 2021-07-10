@@ -1,0 +1,27 @@
+{
+  "name": "code-whits-javascript",
+  "version": "0.0.1",
+  "description": "javascript code whits",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-whits/code-whits-javascript.git"
+  },
+  "author": "Ajith Ramachandran",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/code-whits/code-whits-javascript/issues"
+  },
+  "homepage": "https://github.com/code-whits/code-whits-javascript#readme",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "jest-cli": "^27.0.6"
+  }
+}

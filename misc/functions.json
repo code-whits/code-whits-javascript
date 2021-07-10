@@ -1,0 +1,14 @@
+{
+    "functions" : [
+        {
+            "name" : "Square",
+            "source": "square.js",
+            "description": ""
+        },
+        {
+            "name" : "Product",
+            "source": "product.js",
+            "description": ""
+        }
+    ]
+}
