@@ -3,12 +3,12 @@
         {
             "name" : "Square",
             "source": "square.js",
-            "description": ""
+            "description": "Find square of a number."
         },
         {
             "name" : "Product",
             "source": "product.js",
-            "description": ""
+            "description": "Find the product of two numbers."
         }
     ]
 }
