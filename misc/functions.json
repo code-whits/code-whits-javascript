@@ -9,6 +9,11 @@
             "name" : "Product",
             "source": "product.js",
             "description": "Find the product of two numbers."
+        },
+        {
+            "name" : "Sum",
+            "source": "sum.js",
+            "description": "Find the Sum of Natural Numbers Using Recursion."
         }
     ]
 }
