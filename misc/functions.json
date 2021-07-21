@@ -14,6 +14,51 @@
             "name" : "Sum",
             "source": "sum.js",
             "description": "Find the Sum of Natural Numbers Using Recursion."
+        },
+        {
+            "name" : "Print Hello World",
+            "source": "print.js",
+            "description": "Program To Print Hello World"
+        },
+        {
+            "name" : "Area of a Triangle",
+            "source": "areaofatriangle.js",
+            "description": "Program to Calculate the Area of a Triangle"
+        },
+        {
+            "name" : "Swap Two Variables",
+            "source": "swap.js",
+            "description": "Program to Swap Two Variables"
+        },
+        {
+            "name" : "Solve Quadratic Equation",
+            "source": "quadraticeqn.js",
+            "description": "Program to Solve Quadratic Equation"
+        },
+        {
+            "name" : "Convert Kilometers to Miles",
+            "source": "conevrtkmtomiles.js",
+            "description": "Program to Convert Kilometers to Miles."
+        },
+        {
+            "name" : "Convert Celsius to Fahrenheit",
+            "source": "ConvertCelsiustoFahrenheit.js",
+            "description": "Program to Convert Celsius to Fahrenheit."
+        },
+        {
+            "name" : "Generate a Random Number",
+            "source": "GenerateRandomNumber.js",
+            "description": "Program to Generate a Random Number."
+        },
+        {
+            "name" : "Check if a number is Positive, Negative, or Zero",
+            "source": "checkno.js",
+            "description": "Program to Check if a number is Positive, Negative, or Zero."
+        },
+        {
+            "name" : "Check Armstrong Number",
+            "source": "armstrong.js",
+            "description": "Program to Check Armstrong Number."
         }
     ]
 }
