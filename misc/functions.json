@@ -59,6 +59,51 @@
             "name" : "Check Armstrong Number",
             "source": "armstrong.js",
             "description": "Program to Check Armstrong Number."
+        },
+        {
+            "name" : "Check if a Number is Odd or Even",
+            "source": "Check if a Number is Odd or Even.js",
+            "description": "Program to Check if a Number is Odd or Even."
+        },
+        {
+            "name" : "Find the Largest Among Three Numbers",
+            "source": "Largest Among Three Numbers.js",
+            "description": "Program to Find the Largest Among Three Numbers."
+        },
+        {
+            "name" : "Check Prime Number",
+            "source": "Check Prime Number.js",
+            "description": "Program to Check Prime Number."
+        },
+        {
+            "name" : "Print All Prime Numbers in an Interval",
+            "source": "Print All Prime Numbers in an Interval.js",
+            "description": "Program to Print All Prime Numbers in an Interval."
+        },
+        {
+            "name" : "Find the Factorial of a Number",
+            "source": "Find the Factorial of a Number.js",
+            "description": "Program to Find the Factorial of a Number."
+        },
+        {
+            "name" : "Display the Multiplication Table",
+            "source": "Display the Multiplication Table.js",
+            "description": "Program to Display the Multiplication Table."
+        },
+        {
+            "name" : "Print the Fibonacci Sequence",
+            "source": "Print the Fibonacci Sequence.js",
+            "description": "Program to Print the Fibonacci Sequence."
+        },
+        {
+            "name" : "Find Armstrong Number in an Interval",
+            "source": "Find Armstrong Number in an Interval.js",
+            "description": "Program to Find Armstrong Number in an Interval."
+        },
+        {
+            "name" : "Make a Simple Calculator",
+            "source": "Simple Calculator.js",
+            "description": "Program to Make a Simple Calculator."
         }
     ]
 }
