@@ -104,6 +104,421 @@
             "name" : "Make a Simple Calculator",
             "source": "Simple Calculator.js",
             "description": "Program to Make a Simple Calculator."
+        },
+        {
+            "name" : "Find the Sum of Natural Numbers",
+            "source": "Find the Sum of Natural Numbers.js",
+            "description": "Program to Find the Sum of Natural Numbers."
+        },
+        {
+            "name" : "Check if the Numbers Have Same Last Digit",
+            "source": "Check if the Numbers Have Same Last Digit.js",
+            "description": "Program to Check if the Numbers Have Same Last Digit."
+        },
+        {
+            "name" : "Find HCF or GCD",
+            "source": "Find HCF or GCD.js",
+            "description": "Program to Find HCF or GCD."
+        },
+        {
+            "name" : "Find LCM",
+            "source": "Find LCM.js",
+            "description": "Program to Find LCM."
+        },
+        {
+            "name" : "Find the Factors of a Number",
+            "source": "Find the Factors of a Number.js",
+            "description": "Program to Find the Factors of a Number."
+        },
+        {
+            "name" : "Find Sum of Natural Numbers Using Recursion",
+            "source": "Find Sum of Natural Numbers Using Recursion.js",
+            "description": "Program to Find Sum of Natural Numbers Using Recursion."
+        },
+        {
+            "name" : "Guess a Random Number",
+            "source": "Guess a Random Number.js",
+            "description": "Program to Guess a Random Number."
+        },
+        {
+            "name" : "Shuffle Deck of Cards",
+            "source": "Shuffle Deck of Cards.js",
+            "description": "Program to Shuffle Deck of Cards."
+        },
+        {
+            "name" : "Display Fibonacci Sequence Using Recursion",
+            "source": "Display Fibonacci Sequence Using Recursion.js",
+            "description": "Program to Display Fibonacci Sequence Using Recursion."
+        },
+        {
+            "name" : "Find Factorial of Number Using Recursion",
+            "source": "Find Factorial of Number Using Recursion.js",
+            "description": "Program to Find Factorial of Number Using Recursion."
+        },
+        {
+            "name" : "Convert Decimal to Binary",
+            "source": "Convert Decimal to Binary.js",
+            "description": "Program to Convert Decimal to Binary."
+        },
+        {
+            "name" : "Find ASCII Value of Character",
+            "source": "Find ASCII Value of Character.js",
+            "description": "Program to Find ASCII Value of Character."
+        },
+        {
+            "name" : "Check Whether a String is Palindrome or Not",
+            "source": "Check Whether a String is Palindrome or Not.js",
+            "description": "Program to Check Whether a String is Palindrome or Not."
+        },
+        {
+            "name" : "Sort Words in Alphabetical Order",
+            "source": "Sort Words in Alphabetical Order.js",
+            "description": "Program to Sort Words in Alphabetical Order."
+        },
+        {
+            "name" : "Replace Characters of a String",
+            "source": "Replace Characters of a String.js",
+            "description": "Program to Replace Characters of a String."
+        },
+        {
+            "name" : "Reverse a String",
+            "source": "Reverse a String.js",
+            "description": "Program to Reverse a String."
+        },
+        {
+            "name" : "Create Objects in Different Ways",
+            "source": "Create Objects in Different Ways.js",
+            "description": "Program to Create Objects in Different Ways."
+        },
+        {
+            "name" : "Check the Number of Occurrences of a Character in the String",
+            "source": "Check the Number of Occurrences of a Character in the String.js",
+            "description": "Program to Check the Number of Occurrences of a Character in the String."
+        },
+        {
+            "name" : "Convert the First Letter of a String into UpperCase",
+            "source": "Convert the First Letter of a String into UpperCase.js",
+            "description": "Program to Convert the First Letter of a String into UpperCase."
+        },
+        {
+            "name" : "Count the Number of Vowels in a String",
+            "source": "Count the Number of Vowels in a String.js",
+            "description": "Program to Count the Number of Vowels in a String."
+        },
+        {
+            "name" : "Remove a Property from an Object",
+            "source": "Remove a Property from an Object.js",
+            "description": "Program to Remove a Property from an Object."
+        },
+        {
+            "name" : "Check Whether a String Starts and Ends With Certain Characters",
+            "source": "Check Whether a String Starts and Ends With Certain Characters.js",
+            "description": "Program to Check Whether a String Starts and Ends With Certain Characters."
+        },
+        {
+            "name" : "Check if a Key Exists in an Object",
+            "source": "Check if a Key Exists in an Object.js",
+            "description": "Program to Check if a Key Exists in an Object."
+        },
+        {
+            "name" : "Clone a JS Object",
+            "source": "Clone a JS Object.js",
+            "description": "Program to Clone a JS Object."
+        },
+        {
+            "name" : "Loop Through an Object",
+            "source": "Loop Through an Object.js",
+            "description": "Program to Loop Through an Object."
+        },
+        {
+            "name" : "Merge Property of Two Objects",
+            "source": "Merge Property of Two Objects.js",
+            "description": "Program to Merge Property of Two Objects."
+        },
+        {
+            "name" : "Count the Number of Keys/Properties in an Object",
+            "source": "Properties in an Object.js",
+            "description": "Program to Count the Number of Keys/Properties in an Object."
+        },
+        {
+            "name" : "Add Key/Value Pair to an Object",
+            "source": "Value Pair to an Object.js",
+            "description": "Program to Add Key/Value Pair to an Object."
+        },
+        {
+            "name" : "Replace All Occurrences of a String",
+            "source": "Replace All Occurrences of a String.js",
+            "description": "Program to Replace All Occurrences of a String."
+        },
+        {
+            "name" : "Create Multiline Strings",
+            "source": "Create Multiline Strings.js",
+            "description": "Program to Create Multiline Strings."
+        },
+        {
+            "name" : "Format Numbers as Currency Strings",
+            "source": "Format Numbers as Currency Strings.js",
+            "description": "Program to Format Numbers as Currency Strings."
+        },
+        {
+            "name" : "Generate Random String",
+            "source": "Generate Random String.js",
+            "description": "Program to Generate Random String."
+        },
+        {
+            "name" : "Check if a String Starts With Another String",
+            "source": "Check if a String Starts With Another String.js",
+            "description": "Program to Check if a String Starts With Another String."
+        },
+        {
+            "name" : "Trim a String",
+            "source": "Trim a String.js",
+            "description": "Program to Trim a String."
+        },
+        {
+            "name" : "Convert Objects to Strings",
+            "source": "Convert Objects to Strings.js",
+            "description": "Program to Convert Objects to Strings."
+        },
+        {
+            "name" : "Check Whether a String Contains a Substring",
+            "source": "Check Whether a String Contains a Substring.js",
+            "description": "Program to Check Whether a String Contains a Substring."
+        },
+        {
+            "name" : "Perform Case Insensitive String Comparison",
+            "source": "Perform Case Insensitive String Comparison.js",
+            "description": "Program to Perform Case Insensitive String Comparison."
+        },
+        {
+            "name" : "Encode a String to Base64",
+            "source": "Encode a String to Base64.js",
+            "description": "Program to Encode a String to Base64."
+        },
+        {
+            "name" : "Replace all Instances of a Character in a String",
+            "source": "Replace all Instances of a Character in a String.js",
+            "description": "Program to Replace all Instances of a Character in a String."
+        },
+        {
+            "name" : "Replace All Line Breaks with",
+            "source": "Replace All Line Breaks with.js",
+            "description": "Program to Replace All Line Breaks with."
+        },
+        {
+            "name" : "Display Date and Time",
+            "source": "Display Date and Time.js",
+            "description": "Program to Display Date and Time."
+        },
+        {
+            "name" : "Check Leap Year",
+            "source": "Check Leap Year.js",
+            "description": "Program to Check Leap Year."
+        },
+        {
+            "name" : "Format the Date",
+            "source": "Format the Date.js",
+            "description": "Program to Format the Date."
+        },
+        {
+            "name" : "Display Current Date",
+            "source": "Display Current Date.js",
+            "description": "Program to Display Current Date."
+        },
+        {
+            "name" : "Compare The Value of Two Dates",
+            "source": "Compare The Value of Two Dates.js",
+            "description": "Program to Compare The Value of Two Dates."
+        },
+        {
+            "name" : "Create Countdown Timer",
+            "source": "Create Countdown Timer.js",
+            "description": "Program to Create Countdown Timer."
+        },
+        {
+            "name" : "Remove Specific Item From an Array",
+            "source": "Remove Specific Item From an Array.js",
+            "description": "Program to Remove Specific Item From an Array."
+        },
+        {
+            "name" : "Check if An Array Contains a Specified Value",
+            "source": "Check if An Array Contains a Specified Value.js",
+            "description": "Program to Check if An Array Contains a Specified Value."
+        },
+        {
+            "name" : "Insert Item in an Array",
+            "source": "Insert Item in an Array.js",
+            "description": "Program to Insert Item in an Array."
+        },
+        {
+            "name" : "Append an Object to An Array",
+            "source": "Append an Object to An Array.js",
+            "description": "Program to Append an Object to An Array."
+        },
+        {
+            "name" : "Check if An Object is An Array",
+            "source": "Check if An Object is An Array.js",
+            "description": "Program to Check if An Object is An Array."
+        },
+        {
+            "name" : "Empty an Array",
+            "source": "Empty an Array.js",
+            "description": "Program to Empty an Array."
+        },
+        {
+            "name" : "Add Element to Start of an Array",
+            "source": "Add Element to Start of an Array.js",
+            "description": "Program to Add Element to Start of an Array."
+        },
+        {
+            "name" : "Remove Duplicates From Array",
+            "source": "Remove Duplicates From Array.js",
+            "description": "Program to Remove Duplicates From Array."
+        },
+        {
+            "name" : "Merge Two Arrays and Remove Duplicate Items",
+            "source": "Merge Two Arrays and Remove Duplicate Items.js",
+            "description": "Program to Merge Two Arrays and Remove Duplicate Items."
+        },
+        {
+            "name" : "Sort Array of Objects by Property Values",
+            "source": "Sort Array of Objects by Property Values.js",
+            "description": "Program to Sort Array of Objects by Property Values."
+        },
+        {
+            "name" : "Create Two Dimensional Array",
+            "source": "Create Two Dimensional Array.js",
+            "description": "Program to Create Two Dimensional Array."
+        },
+        {
+            "name" : "Extract Given Property Values from Objects as Array",
+            "source": "Extract Given Property Values from Objects as Array.js",
+            "description": "Program to Extract Given Property Values from Objects as Array."
+        },
+        {
+            "name" : "Compare Elements of Two Arrays",
+            "source": "Compare Elements of Two Arrays.js",
+            "description": "Program to Compare Elements of Two Arrays."
+        },
+        {
+            "name" : "Get Random Item From an Array",
+            "source": "Get Random Item From an Array.js",
+            "description": "Program to Get Random Item From an Array."
+        },
+        {
+            "name" : "Perform Intersection Between Two Arrays",
+            "source": "Perform Intersection Between Two Arrays.js",
+            "description": "Program To Perform Intersection Between Two Arrays."
+        },
+        {
+            "name" : "Split Array into Smaller Chunks",
+            "source": "Split Array into Smaller Chunks.js",
+            "description": "Program to Split Array into Smaller Chunks."
+        },
+        {
+            "name" : "Include a JS file in Another JS file",
+            "source": "Include a JS file in Another JS file.js",
+            "description": "Program to Include a JS file in Another JS file."
+        },
+        {
+            "name" : "Get File Extension",
+            "source": "Get File Extension.js",
+            "description": "Program to Get File Extension."
+        },
+        {
+            "name" : "Check If A Variable Is undefined or null",
+            "source": "Check If A Variable Is undefined or null.js",
+            "description": "Program To Check If A Variable Is undefined or null."
+        },
+        {
+            "name" : "Set a Default Parameter Value For a Function",
+            "source": "Set a Default Parameter Value For a Function.js",
+            "description": "Program to Set a Default Parameter Value For a Function."
+        },
+        {
+            "name" : "Illustrate Different Set Operations",
+            "source": "Illustrate Different Set Operations.js",
+            "description": "Program to Illustrate Different Set Operations."
+        },
+        {
+            "name" : "Generate a Random Number Between Two Numbers",
+            "source": "Generate a Random Number Between Two Numbers.js",
+            "description": "Program to Generate a Random Number Between Two Numbers."
+        },
+        {
+            "name" : "Get The Current URL",
+            "source": "Get The Current URL.js",
+            "description": "Program To Get The Current URL."
+        },
+        {
+            "name" : "Validate An Email Address",
+            "source": "Validate An Email Address.js",
+            "description": "Program to Validate An Email Address."
+        },
+        {
+            "name" : "Check If a Variable is of Function Type",
+            "source": "Check If a Variable is of Function Type.js",
+            "description": "Program to Check If a Variable is of Function Type."
+        },
+        {
+            "name" : "Work With Constants",
+            "source": "Work With Constants.js",
+            "description": "Program To Work With Constants."
+        },
+        {
+            "name" : "Pass Parameter to a setTimeout() Function",
+            "source": "Pass Parameter to a setTimeout() Function.js",
+            "description": "Program to Pass Parameter to a setTimeout() Function."
+        },
+        {
+            "name" : "Generate a Range of Numbers and Characters",
+            "source": "Generate a Range of Numbers and Characters.js",
+            "description": "Program to Generate a Range of Numbers and Characters."
+        },
+        {
+            "name" : "Perform Function Overloading",
+            "source": "Perform Function Overloading.js",
+            "description": "Program to Perform Function Overloading."
+        },
+        {
+            "name" : "Implement a Stack",
+            "source": "Implement a Stack.js",
+            "description": "Program to Implement a Stack."
+        },
+        {
+            "name" : "Implement a Queue",
+            "source": "Implement a Queue.js",
+            "description": "Program to Implement a Queue."
+        },
+        {
+            "name" : "Check if a Number is Float or Integer",
+            "source": "Check if a Number is Float or Integer.js",
+            "description": "Program to Check if a Number is Float or Integer."
+        },
+        {
+            "name" : "Pass a Function as Parameter",
+            "source": "Pass a Function as Parameter.js",
+            "description": "Program to Pass a Function as Parameter."
+        },
+        {
+            "name" : "Get the Dimensions of an Image",
+            "source": "Get the Dimensions of an Image.js",
+            "description": "Program to Get the Dimensions of an Image."
+        },
+        {
+            "name" : "Remove All Whitespaces From a Text",
+            "source": "Remove All Whitespaces From a Text.js",
+            "description": "Program to Remove All Whitespaces From a Text."
+        },
+        {
+            "name" : "Write to Console",
+            "source": "Write to Console.js",
+            "description": "Program to Write to Console."
+        },
+        {
+            "name" : "Convert Date to Number",
+            "source": "Convert Date to Number.js",
+            "description": "Program to Convert Date to Number."
         }
     ]
 }
